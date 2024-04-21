@@ -8,6 +8,10 @@ Facial attribute editing has garnered significant attention, yet prevailing meth
 Illustration of correct modification and unrelated preservation (the 1st row) \& style manipulation (the 2nd row) with the proposed SDGAN.
 ![ES](https://raw.githubusercontent.com/sysuhuangwenmin/SDGAN/main/ES.png)
 
+# Model
+Overview of the proposed SDGAN.
+![SDGAN](https://raw.githubusercontent.com/sysuhuangwenmin/SDGAN/main/SDGAN.png)
+
 
 # Pretrained Model
 The model checkpoint can be downloaded using [Google Drive link](https://drive.google.com/file/d/13K3G806OVdyuGi-1eJkjsH3-3b6e4Rm8/view?usp=drive_link). The checkpoint should be located in the path core/outputs/celeba-hq_256/checkpoints.
