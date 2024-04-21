@@ -6,6 +6,7 @@ Facial attribute editing has garnered significant attention, yet prevailing meth
 
 # Introduction
 Illustration of correct modification and unrelated preservation (the 1st row) \& style manipulation (the 2nd row) with the proposed SDGAN.
+![ES](https://raw.githubusercontent.com/sysuhuangwenmin/SDGAN/main/ES.png)
 
 
 # Pretrained Model
