@@ -20,11 +20,10 @@ lr_gen_mappers: 0.000001
 lr_gen_E: 0.0001
 lr_gen_others: 0.001
 
-# 对抗loss，风格重建loss，图像重建loss
 adv_w: 1
 sty_w: 1                  
 rec_w: 1
-#生成的风格特征的维度
+
 style_dim: 256
 noise_dim: 32
 
