@@ -13,7 +13,7 @@ Facial attribute editing has garnered significant attention, yet prevailing meth
 ![SDGAN](https://raw.githubusercontent.com/sysuhuangwenmin/SDGAN/main/SDGAN.png)
 
 
-## Pretrained Model
+## Pre-trained Model
 The model checkpoint can be downloaded using [Google Drive link](https://drive.google.com/file/d/13K3G806OVdyuGi-1eJkjsH3-3b6e4Rm8/view?usp=drive_link). The checkpoint should be located in the path core/outputs/celeba-hq_256/checkpoints.
 
 ## Testing
